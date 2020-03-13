@@ -39,20 +39,20 @@ const AppStackNavigator = createStackNavigator({
     navigationOptions: {
       headerShown: false,
     },
-    
+
   },
   GoogleTrelloLogin: {
-      screen: GoogleTrelloLogin,
-      navigationOptions: {
-        headerShown: false,
-      },
+    screen: GoogleTrelloLogin,
+    navigationOptions: {
+      headerShown: false,
+    },
   },
   GoogleTrelloLogin02: {
     screen: GoogleTrelloLogin02,
     navigationOptions: {
       headerShown: false,
     },
-},
+  },
   GoogleWebview: {
     screen: GoogleWebview,
     navigationOptions: {
